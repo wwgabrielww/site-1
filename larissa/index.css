@@ -17,6 +17,8 @@ body {
 
 .principal {
     background-image: url("img/main-banner01.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .contairner {
