@@ -23,5 +23,10 @@ body {
 
 .contairner {
   height: 100vh;
+}
 
+.contairner_botao {
+   background-color: var(--branco-principal) 
+   border-radius: 5px;
+   padding: 1em;
 }
