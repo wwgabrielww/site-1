@@ -15,7 +15,11 @@ body {
     padding: 0;
  }
 
-.principal{ 
-    background-image: url( "img/background.png");
-    
+.principal {
+    background-image: url("img/main-banner01.jpg");
+}
+
+.contairner {
+  height: 100vh;
+
 }
