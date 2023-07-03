@@ -23,10 +23,13 @@ body {
 
 .contairner {
   height: 100vh;
+  display: grid;
+  grid-template-columns: 33% 33%;
 }
 
 .contairner_botao {
    background-color: var(--branco-principal) 
+   diplay: block;
    border-radius: 5px;
    padding: 1em;
 }
