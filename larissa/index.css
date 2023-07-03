@@ -32,6 +32,5 @@ body {
 .contairner_botao {
    background-color: var(--branco-principal) 
    diplay: block;
-   border-radius: 5px;
-   padding: 1em;
+
 }
