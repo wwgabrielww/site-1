@@ -14,7 +14,7 @@
    
    
    body {
-   background-color: var(--cor-de-fundo);
+   background-image: url(img/main-banner01.jpg);
    color: var(--cor-das-letras);
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    max-width: 1200px;
